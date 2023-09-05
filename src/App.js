@@ -20,7 +20,7 @@ function SecondComponent(){
   )
 }
 
-// This is Class component
+ // This is Class component
 class FirstComponent extends Component{
   render(){
     return (
